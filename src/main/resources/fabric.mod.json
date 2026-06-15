@@ -8,8 +8,9 @@
 		"funiva"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"discord": "https://discord.com/users/754428602040320002",
+		"sources": "https://github.com/fnva/commandwhisperer",
+		"issues": "https://github.com/fnva/commandwhisperer/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/cmdw/icon.png",
