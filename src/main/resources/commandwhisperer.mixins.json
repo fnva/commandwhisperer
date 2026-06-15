@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "net.funiva.commandwhisperer.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"CommandBlockEditScreenMixin",
+		"AbstractCommandBlockEditScreenAccessor",
+		"CommandBlockEditScreenUIMixin",
+		"ScreenAccessor",
+		"CommandBlockEditScreenInvoker"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
