@@ -5,7 +5,7 @@
 	"name": "Command Whisperer",
 	"description": "Client-side mod that displays command block commands as floating text labels. Labels are created when the command block is saved after entering or modifying a command. Note: existing command blocks will not show labels until their command is edited and saved with the mod installed.",
 	"authors": [
-		"funiva"
+		"funiee"
 	],
 	"contact": {
 		"discord": "https://discord.com/users/754428602040320002",
